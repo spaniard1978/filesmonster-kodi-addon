@@ -9,11 +9,8 @@
 **** You have to acces with you active filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
 <br><br>
 
-<p align=center>
-<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png width=300>
 
- 
-</p>
+<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png width=300 align=left>
 
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 

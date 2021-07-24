@@ -10,7 +10,7 @@
 
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 
-You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
+You can get/renew your premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br>
   
@@ -21,6 +21,8 @@ You can purchase/renew you premium filesmonster.com account following this link:
 2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 
 3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
+
+4 - Once installed (matrix version) you can update it, directly from the add-on, to get te last updates.
 <br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
@@ -32,12 +34,15 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 - You can mark your favorites (sync with filesmonster.com favorites list)
 - You can download the content to your kodi sistem.
 
-Avaliable KODI versions:
-* Kodi Leia
-* Kodi Matrix (19 and above)
 
-Once installed (matrix version) you can update it directly from the addon to get te last updates.
+<b>Avaliable KODI versions:</b>
+* Kodi Leia (discontinued - legacy version)
+* Kodi Matrix
 
-This addon uses the oficial API of filesmonster.com service from content-cooperation.com
-Permium account and more information in www.filesmonster.com
-You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
+<b>ABOUT THIS ADD-ON</b>
+This add-on uses the oficial API of filesmonster.com service from content-cooperation.com
+Permium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
+Contact: spaniard1978@mixmail.com
+
+
+

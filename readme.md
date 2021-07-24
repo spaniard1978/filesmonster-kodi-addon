@@ -10,15 +10,15 @@
 <br><br>
 
 
-<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png height=200 align=left>
-<div>
+<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png height=100 align=left>
+
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 
 You can get/renew your premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br>
-</div>
-  <div style='clear:both'></div>
+
+<br>
   <b>HOW TO INSTALL IN KODI:</b>
 
 1 - Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).

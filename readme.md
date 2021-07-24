@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/16547668/126883099-71d0d817-8ac2-47a0-876b-baf6bbf23fde.png height=50 width=50>
+<center><img src=https://user-images.githubusercontent.com/16547668/126883099-71d0d817-8ac2-47a0-876b-baf6bbf23fde.png height=50% width=50%></center>
 
 **** ATENTION: This add-on includes adult content. Must be used by adult people (according your national laws)  *****
 **** If you are not an "adult" in your country, you are not allowed to download an install this add-on ****

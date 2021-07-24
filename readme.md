@@ -10,7 +10,7 @@
 <br><br>
 
 
-<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png width=300 align=left>
+<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png height=200 align=left>
 
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 

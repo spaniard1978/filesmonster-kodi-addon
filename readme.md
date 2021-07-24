@@ -39,7 +39,9 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 * Kodi Leia (discontinued - legacy version)
 * Kodi Matrix
 <br><br>
+
 <b>ABOUT THIS ADD-ON</b>
+<br><br>
 This add-on uses the oficial API of filesmonster.com service from content-cooperation.com
 Permium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
 Contact: spaniard1978@mixmail.com

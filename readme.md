@@ -7,16 +7,22 @@
 **** You have to acces with you active filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
 <br><br>
 
+
+  <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br>
   
-  <b>HOW TO INSTALL IN KODI</b>
+  <b>HOW TO INSTALL IN KODI:</b>
 
-Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).
+1 - Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).
 
-Click on the zip file and, in the next screen press the button  "download" to get zip file.
+2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 
+3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
+<br>
+
+<b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
 If you want to use this Filesmonster.com add-on you must have a premium account in filesmonster.com in order to use it.
 - You can choose from a lot of categories in filesmonster.com service.
 - You can search between all the content avaliable in filesmonster.com service.

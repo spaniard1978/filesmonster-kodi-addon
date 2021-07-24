@@ -9,7 +9,7 @@
 
 
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
-  <br>
+
 You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br>
@@ -21,7 +21,7 @@ You can purchase/renew you premium filesmonster.com account following this link:
 2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 
 3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
-<br>
+<br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
 If you want to use this Filesmonster.com add-on you must have a premium account in filesmonster.com in order to use it.

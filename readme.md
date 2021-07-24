@@ -49,8 +49,8 @@ Contact: spaniard1978@mixmail.com
 <br><br>
 <b>SCREENSHOTS</b>
 
-<img align=left width="30%" height=100% alt="s3" src="https://user-images.githubusercontent.com/16547668/126883240-9773a9b0-0a6c-44ec-b9af-0efff4f0b2d1.png">
-<img align=left width="30%" height=100% alt="s2" src="https://user-images.githubusercontent.com/16547668/126883246-d0f61fca-abf9-4deb-b533-ab110657c5ed.png">
-<img align=left width="30%" height=100%  alt="s1" src="https://user-images.githubusercontent.com/16547668/126883243-b3bf2d3a-a29e-4030-8a23-72e3d5ca819f.png">
+<img  alt="s3" src="https://user-images.githubusercontent.com/16547668/126883240-9773a9b0-0a6c-44ec-b9af-0efff4f0b2d1.png">
+<img  alt="s2" src="https://user-images.githubusercontent.com/16547668/126883246-d0f61fca-abf9-4deb-b533-ab110657c5ed.png">
+<img  alt="s1" src="https://user-images.githubusercontent.com/16547668/126883243-b3bf2d3a-a29e-4030-8a23-72e3d5ca819f.png">
 
 

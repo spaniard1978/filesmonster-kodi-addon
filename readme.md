@@ -48,9 +48,11 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 <br><br>
 <br>
 <b>ABOUT THIS ADD-ON</b>
-<br>
+<br><br>
 
 This add-on uses the oficial API of filesmonster.com service from content-cooperation.com
+
+Avaliable in English and Spanish.
 
 Premium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
 

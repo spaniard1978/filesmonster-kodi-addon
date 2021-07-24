@@ -9,10 +9,7 @@
 
 You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
-<br><br>
-
-You cand download this addon in zip and install it manually.
-<br><Br>
+<br>
   
   <b>HOW TO INSTALL IN KODI</b>
 

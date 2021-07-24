@@ -24,6 +24,7 @@ You can purchase/renew you premium filesmonster.com account following this link:
 <br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
+
 If you want to use this Filesmonster.com add-on you must have a premium account in filesmonster.com in order to use it.
 - You can choose from a lot of categories in filesmonster.com service.
 - You can search between all the content avaliable in filesmonster.com service.

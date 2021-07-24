@@ -22,13 +22,13 @@ You can get/renew your premium filesmonster.com account following this link:
 <br>
   <b>HOW TO INSTALL IN KODI:</b>
 <br><br>
-1 - Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).
+- 1 - Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).
 <br>
-2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
+- 2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 <br>
-3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
+- 3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
 <br>
-4 - Once installed (matrix version) you can update it, directly from the add-on, to get te last updates.
+- 4 - Once installed (matrix version) you can update it, directly from the add-on, to get te last updates.
 <br><br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>

@@ -34,11 +34,11 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 - You can mark your favorites (sync with filesmonster.com favorites list)
 - You can download the content to your kodi sistem.
 
-
-<b>Avaliable KODI versions:</b>
+<br><br>
+<b>KODI VERSIONS:</b>
 * Kodi Leia (discontinued - legacy version)
 * Kodi Matrix
-
+<br><br>
 <b>ABOUT THIS ADD-ON</b>
 This add-on uses the oficial API of filesmonster.com service from content-cooperation.com
 Permium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2

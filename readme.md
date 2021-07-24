@@ -5,12 +5,16 @@
 **** If you are not an "adult" in your country, you are not allowed to download an install this add-on ****
 
 **** You have to acces with you active filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
+<br><br>
 
 You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
-
+<br><br>
 
 You cand download this addon in zip and install it manually.
+<br><Br>
+  
+  <b>HOW TO INSTALL IN KODI</b>
 
 Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).
 

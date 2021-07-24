@@ -48,11 +48,11 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 
 <b>ABOUT THIS ADD-ON</b>
 <br>
+
 This add-on uses the oficial API of filesmonster.com service from content-cooperation.com
 
 Premium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
 
-Contact: spaniard1978@mixmail.com
 <br><br><br>
 
 <p align=center>

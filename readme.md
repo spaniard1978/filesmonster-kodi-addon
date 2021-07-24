@@ -47,5 +47,8 @@ This add-on uses the oficial API of filesmonster.com service from content-cooper
 Permium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
 Contact: spaniard1978@mixmail.com
 
+<img width="886" alt="s3" src="https://user-images.githubusercontent.com/16547668/126883240-9773a9b0-0a6c-44ec-b9af-0efff4f0b2d1.png">
+![Uploading s2.png…]()
+<img width="1394" alt="s1" src="https://user-images.githubusercontent.com/16547668/126883243-b3bf2d3a-a29e-4030-8a23-72e3d5ca819f.png">
 
 

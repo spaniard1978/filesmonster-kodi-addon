@@ -10,9 +10,10 @@
 <br><br>
 
 <p align=center>
+<img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png width=300>
 
-  
-  <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%></p>
+ 
+</p>
 
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 

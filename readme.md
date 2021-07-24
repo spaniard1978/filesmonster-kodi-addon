@@ -21,7 +21,7 @@ You can get/renew your premium filesmonster.com account following this link:
 
 <br>
   <b>HOW TO INSTALL IN KODI:</b>
-<br>
+<br><br>
 1 - Under code tab, choose the folder that match with the Kodi version that you have installed (leia or matrix).
 
 2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.

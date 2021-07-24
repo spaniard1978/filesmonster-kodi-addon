@@ -4,6 +4,7 @@
 
 You can purchase/renew you premium filesmonster.com account following this link: https://filesmonster.com/premium/?d=%40wnfqp2
 
+![icon](https://user-images.githubusercontent.com/16547668/126883099-71d0d817-8ac2-47a0-876b-baf6bbf23fde.png)
 
 
 You cand download this addon in zip and install it manually.

@@ -45,7 +45,7 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 * Kodi Leia (discontinued - legacy version)
 * Kodi Matrix
 <br><br>
-
+<br>
 <b>ABOUT THIS ADD-ON</b>
 <br>
 

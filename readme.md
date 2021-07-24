@@ -28,8 +28,7 @@ You can get/renew your premium filesmonster.com account following this link: htt
 3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
 
 4 - Once installed (matrix version) you can update it, directly from the add-on, to get te last updates.
-<br><br>
-
+<br><br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
 

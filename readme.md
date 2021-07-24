@@ -15,7 +15,7 @@
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 
 You can get/renew your premium filesmonster.com account following this link:
-https://filesmonster.com/premium/?d=%40wnfqp2
+<br>https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br>
 

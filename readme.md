@@ -1,8 +1,6 @@
 <p align=center>
-  
-  
-  <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%>
-<img src=https://user-images.githubusercontent.com/16547668/126883099-71d0d817-8ac2-47a0-876b-baf6bbf23fde.png height=200 width=200></p>
+ <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%>
+</p>
 
 <b>**** ATENTION: This add-on includes adult content. Must be used by adult people (according your national laws)  *****
 
@@ -11,6 +9,10 @@
 **** You have to acces with you active filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
 <br><br>
 
+<p align=center>
+
+  
+  <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%></p>
 
   <b>HOW TO GET A PREMIUM ACCOUNT:</b>
 

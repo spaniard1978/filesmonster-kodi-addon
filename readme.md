@@ -54,10 +54,10 @@ Contact: spaniard1978@mixmail.com
 <br><br><br>
 <b>SCREENSHOTS</b>
 <p align=center>
-<img width=50% alt="s3" src="https://user-images.githubusercontent.com/16547668/126883240-9773a9b0-0a6c-44ec-b9af-0efff4f0b2d1.png">
-<img width=50%  alt="s2" src="https://user-images.githubusercontent.com/16547668/126883246-d0f61fca-abf9-4deb-b533-ab110657c5ed.png">
-<img width=50%  alt="s1" src="https://user-images.githubusercontent.com/16547668/126883243-b3bf2d3a-a29e-4030-8a23-72e3d5ca819f.png">
- <img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png height=100%>
+<img width=400 alt="s3" src="https://user-images.githubusercontent.com/16547668/126883240-9773a9b0-0a6c-44ec-b9af-0efff4f0b2d1.png">
+<img width=400  alt="s2" src="https://user-images.githubusercontent.com/16547668/126883246-d0f61fca-abf9-4deb-b533-ab110657c5ed.png">
+<img width=400  alt="s1" src="https://user-images.githubusercontent.com/16547668/126883243-b3bf2d3a-a29e-4030-8a23-72e3d5ca819f.png">
+ <img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png height=400>
   </p>
 
 

@@ -8,7 +8,7 @@
 
 **** If you are not an "adult" in your country, you are not allowed to download, install and use this add-on ****
 
-**** You have to acces with you active filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
+**** You have to access with your active premium filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
 <br><br>
 
 

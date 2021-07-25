@@ -25,11 +25,11 @@ Puedes obtener/renovar tu cuenta premium de filesmonster.com en este enlace:
 <br><br>
 1 - En las pestaña "code", elige la carpeta que se corresponda con la versión de Kodi que tienes instalada  (leia or <a href=https://github.com/spaniard1978/filesmonster-kodi-addon/tree/master/matrix>matrix</a>). Sólo la versión para matrix continúa actualizándose.
 <br>
-2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
+2 - Haz click en el archivo zip y, en la siguiente pantalla presiona en el botón "download" para conseguir el archivo zip.
 <br>
-3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
+3 - Abre Kodi > add-ons e "instalar desde un archivo zip" > elige el archivo descargado.
 <br>
-4 - Once installed (matrix version) you will get all the updates directly from the add-on.
+4 - Una vez instalado (vesión matrix) recibirás las actualizaciones directamente desde el add-on.
 <br><br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>

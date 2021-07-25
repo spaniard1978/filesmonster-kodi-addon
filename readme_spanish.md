@@ -32,14 +32,16 @@ Puedes obtener/renovar tu cuenta premium de filesmonster.com en este enlace:
 4 - Una vez instalado (vesión matrix) recibirás las actualizaciones directamente desde el add-on.
 <br><br><br>
 
-<b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
+<b>QUE PUEDO HACER CON EL ADD-ON:</B>
 
-If you want to use this Filesmonster.com add-on you must have a premium account in filesmonster.com in order to use it.
-- You can choose from a lot of categories in filesmonster.com service.
-- You can search between all the content avaliable in filesmonster.com service.
-- You can play all the content
-- You can mark your favorites (sync with filesmonster.com favorites list)
-- You can download the content to your kodi sistem.
+Si quieres usar este add-on de Filesmonster.com debes tener una cuenta premium de filesmonster.com.
+- Puedes elegir entre las diferentes categorías del servicio filesmonster.com.
+- Puedes buscar entre todo el contenido del servicio de filesmonster.com.
+- Puedes reproducir todo el contenido
+- Puedes marcar tus favoritos (sincronizados con la lista de favoritos de filesmonster.com)
+- Puedes descargar todo el contenido a tu sistema Kodi.
+- Puedes determinar la carpeta de descargas.
+- Puedes actualizar directamente el add-on (recibes un aviso con cada nueva actualización disponible). Sólo versión matrix.
 
 <br><br>
 <b>KODI VERSIONS:</b>

@@ -40,7 +40,9 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 - You can search between all the content avaliable in filesmonster.com service.
 - You can play all the content
 - You can mark your favorites (sync with filesmonster.com favorites list)
-- You can download the content to your kodi sistem.
+- You can download the content to your kodi system.
+- You can set your download folder from your system.
+- You can updae directly the add-on (each new version will be announced into the app ). Only matrix version.
 
 <br><br>
 <b>KODI VERSIONS:</b>

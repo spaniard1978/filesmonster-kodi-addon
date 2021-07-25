@@ -44,25 +44,25 @@ Si quieres usar este add-on de Filesmonster.com debes tener una cuenta premium d
 - Puedes actualizar directamente el add-on (recibes un aviso con cada nueva actualización disponible). Sólo versión matrix.
 
 <br><br>
-<b>KODI VERSIONS:</b>
+<b>VERSIONES KODI:</b>
 <br>
-* Kodi Leia (discontinued - legacy version)
+* Kodi Leia (descontinuada - versión legada)
 * Kodi Matrix
 <br><br>
 <br>
-<b>ABOUT THIS ADD-ON</b>
+<b>SOBRE ESTE ADD-ON</b>
 <br><br>
 
-This add-on uses the oficial API of filesmonster.com service from content-cooperation.com
+Este add-on usa la API oficial del servicio filesmonster.com a través del servicio content-cooperation.com
 
-Avaliable in English and Spanish.
+Disponible en español e inglés.
 
-Premium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
+Cuena premium y más información sobre el servicio filesmonster.com disponble en https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br><br><br>
 
 <p align=center>
- <b>SCREENSHOTS</b><br><br>
+ <b>CAPTURAS DE PANTALLA</b><br><br>
 <img width=400 alt="s3" src="https://user-images.githubusercontent.com/16547668/126883240-9773a9b0-0a6c-44ec-b9af-0efff4f0b2d1.png">
  <br>
 <img width=400  alt="s2" src="https://user-images.githubusercontent.com/16547668/126883246-d0f61fca-abf9-4deb-b533-ab110657c5ed.png">

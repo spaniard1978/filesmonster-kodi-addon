@@ -6,7 +6,7 @@
 
 <b>**** ATENTION: This add-on includes adult content. It must be used by adult people (according your national laws)  *****
 
-**** If you are not an "adult" in your country, you are not allowed to download an install this add-on ****
+**** If you are not an "adult" in your country, you are not allowed to download, install and use this add-on ****
 
 **** You have to acces with you active filesmonster.com account to show all the categories avaliables  (to verify that you are an adult)****</b>
 <br><br>

@@ -1,4 +1,4 @@
-<p align=right><a href=https://github.com/spaniard1978/filesmonster-kodi-addon/blob/master/readme.md>In English here</a></p>
+<p align=right><a href=https://github.com/spaniard1978/filesmonster-kodi-addon>In English here</a></p>
 <p align=center>
  <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%>
 </p>

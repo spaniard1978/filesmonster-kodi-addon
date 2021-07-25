@@ -1,4 +1,4 @@
-<p aling=cenger><a href=https://github.com/spaniard1978/filesmonster-kodi-addon/blob/master/readme_spanish.md>Readme en español aquí</a></p>
+<p align=right><a href=https://github.com/spaniard1978/filesmonster-kodi-addon/blob/master/readme_spanish.md>Readme en español aquí</a></p>
 <p align=center>
  
  <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%>

@@ -13,17 +13,17 @@
 
 <img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png height=100 align=left>
 
-  <b>HOW TO GET A PREMIUM ACCOUNT:</b>
+  <b>COMO CONSEGUIR UNA CUENTA PREMIUM:</b>
 
-You can get/renew your premium filesmonster.com account following this link:
+Puedes obtener/renovar tu cuenta premium de filesmonster.com en este enlace:
 <br>https://filesmonster.com/premium/?d=%40wnfqp2
 
 <br>
 
 <br>
-  <b>HOW TO INSTALL IN KODI:</b>
+  <b>COMO INSTALARLO EN KODI:</b>
 <br><br>
-1 - Under code tab, choose the folder that match with the Kodi version that you have installed (leia or <a href=https://github.com/spaniard1978/filesmonster-kodi-addon/tree/master/matrix>matrix</a>).
+1 - En las pestaña "code", elige la carpeta que se corresponda con la versión de Kodi que tienes instalada  (leia or <a href=https://github.com/spaniard1978/filesmonster-kodi-addon/tree/master/matrix>matrix</a>). Sólo la versión para matrix continúa actualizándose.
 <br>
 2 - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 <br>

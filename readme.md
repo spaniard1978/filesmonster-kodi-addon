@@ -4,7 +4,7 @@
  <img src=https://user-images.githubusercontent.com/16547668/126883305-b447f8d0-462c-47e5-81ae-098221e86a8a.jpg width=100%>
 </p>
 
-<b>**** ATENTION: This add-on includes adult content. Must be used by adult people (according your national laws)  *****
+<b>**** ATENTION: This add-on includes adult content. It must be used by adult people (according your national laws)  *****
 
 **** If you are not an "adult" in your country, you are not allowed to download an install this add-on ****
 

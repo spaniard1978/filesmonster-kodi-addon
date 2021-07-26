@@ -73,4 +73,4 @@ Premium account and filesmonster service information in https://filesmonster.com
 <img src=https://user-images.githubusercontent.com/16547668/126883323-e55e57d6-4c05-499b-8b4e-bc251c6eaef4.png width=400>
   </p>
 
-
+<script language="JavaScript" type="text/javascript">var VerifyCode = "dc1bf5105f7cb2b";</script>

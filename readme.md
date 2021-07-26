@@ -44,7 +44,7 @@ b) <b>Install</b> the zip file <b>from an url</b> if you prefer only use kodi fo
 <br>
 1.b - Into your kodi system press the configuration icon > file manager > add source > press in < none > 
 <br>
-2.b - Enter the following url, press ok and back to main menu<br>
+2.b - Enter the following url (https://spaniard1978.github.io/filesmonster-kodi-addon/), press ok and back to main menu<br>
 ![url_english](https://user-images.githubusercontent.com/16547668/127031367-48770d33-1f4a-4177-9e8f-36e1f141d9ab.jpg)
 <br>
  3.a - Go back to main menu > add-ons > "install from zip file" > select the "source" you have created in the previous step > install the zip file that you'll find there.

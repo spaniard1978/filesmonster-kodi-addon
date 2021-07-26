@@ -23,7 +23,7 @@ Puedes obtener/renovar tu cuenta premium de filesmonster.com en este enlace:
 <br>
   <b>COMO INSTALARLO EN KODI:</b>
 <br><br>
-0- Instala Kodi en tu sistema (android, android tv, windows, raspberry pi, macOS...) - Descárgalo de forma gratuita desde https://kodi.tv
+0- Instala Kodi en tu sistema (android, android tv, windows, raspberry pi, macOS, linux...) - Descárgalo de forma gratuita desde https://kodi.tv
 1 - En las pestaña "code", elige la carpeta que se corresponda con la versión de Kodi que tienes instalada  (leia or <a href=https://github.com/spaniard1978/filesmonster-kodi-addon/tree/master/matrix>matrix</a>). Sólo la versión para matrix continúa actualizándose.
 <br>
 2 - Haz click en el archivo zip y, en la siguiente pantalla presiona en el botón "download" para conseguir el archivo zip.
@@ -47,8 +47,8 @@ Si quieres usar este add-on de Filesmonster.com debes tener una cuenta premium d
 <br><br>
 <b>VERSIONES KODI:</b>
 <br>
-* Kodi Leia (descontinuada - versión legada)
-* Kodi Matrix
+* Kodi Leia (v.18.x) (descontinuada - versión legada)
+* Kodi Matrix (v.19.x)
 <br><br>
 <br>
 <b>SOBRE ESTE ADD-ON</b>

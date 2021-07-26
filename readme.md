@@ -32,7 +32,7 @@ You have to ways for installing this add-on in your kodi system:<br>
 <br>
 a) <b>Download manually the zip file</b> into a folder accesible from your kodi system:
 <br>
-1.a - Under code tab, find the zip file of the add-on for the matrix version - filesmonster_x_x_x_matrix.zip (legacy versions are also avaliable in matrix folder an leia folder). Use preferably the file that is in the root.
+1.a - Under code tab, find the zip file of the add-on for the matrix version - filesmonster_x_x_x_matrix.zip (legacy versions are also avaliable in matrix  and leia folder). Use preferably the file that is in the root.
 <br>
 2.a - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 <br>

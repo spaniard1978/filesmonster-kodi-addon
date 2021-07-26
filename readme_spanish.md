@@ -52,7 +52,7 @@ b) <b>Instalar</b> el archivo zip <b>desde una url</b> si prefieres usar sólo k
 4.a -  Una vez instalado (vesión matrix) recibirás las actualizaciones directamente desde el add-on.
 
 
-<br><br><br>
+<br><br>
 
 <b>QUE PUEDO HACER CON EL ADD-ON:</B>
 

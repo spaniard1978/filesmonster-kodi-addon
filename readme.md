@@ -39,7 +39,6 @@ a) <b>Download manually the zip file</b> into a folder accesible from your kodi 
 3.a - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
 <br>
 4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
-
 <br><br>
 b) Install the zip file <b>from an url</b> (if you can't access to any folder of your kodi system)
 <br>

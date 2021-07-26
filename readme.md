@@ -29,23 +29,30 @@ You can get/renew your premium filesmonster.com account following this link:
 Download and install Kodi from here https://kodi.tv   -  How to install an add-on from zip file? <a href=https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files>manual here</a>
 <br>
 You have to ways for installing this add-on in your kodi system:<br>
-<br><br>
-a) Download the zip file in a folde accesible from your kodi system:
+<br>
+a) <b>Download manually the zip file</b> into a folder accesible from your kodi system:
 <br>
 1.a - Under code tab, find the zip file of the add-on for the matrix version - filesmonster_x_x_x_matrix.zip (legacy versions are also avaliable in matrix folder an leia folder). Use preferably the file that is in the root.
 <br>
 2.a - Click on the zip file and, in the next screen press the button  "download" to get zip file.
 <br>
+3.a - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
 <br>
-b) Install the zip file from an url (if you can't access to any folder of your kodi system)
-<br>
-1.b 
-<br>
-2.b
+4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
+
 <br><br>
-3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
+b) Install the zip file <b>from an url</b> (if you can't access to any folder of your kodi system)
 <br>
-4 - Once installed (matrix version) you will get all the updates directly from the add-on.
+1.b - Into your kodi system press the configuration icon > file manager > add source > press in <none> 
+<br>
+2.b - Enter the folling url, press ok an back to main menú<br>
+ ![url](https://user-images.githubusercontent.com/16547668/127030945-82cfccd8-6576-4e32-836e-64f2552bd4be.jpg)
+<br>
+ 3.a - Go back to main menu > add-ons > "install from zip file" > select the "source" you have created in the previous step.
+<br>
+4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
+
+
 <br><br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>

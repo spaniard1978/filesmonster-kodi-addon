@@ -30,29 +30,30 @@ Download and install Kodi from here https://kodi.tv   -  How to install an add-o
 <br><br>
 You have two ways to install this add-on in your kodi system:<br>
 <br>
-a) <b>Download manually the zip file</b> into a folder accesible from your kodi system:
+a) <b>Install</b> the zip file <b>from an url</b> if you prefer only use kodi for all the steeps (or if you can't access to any folder of your kodi system)
 <br>
-1.a - Under code tab, find the zip file of the add-on for the matrix version - filesmonster_x_x_x_matrix.zip (legacy versions are also avaliable in matrix  and leia folder). Use preferably the file that is in the root.
+1.a - Into your kodi system press the configuration icon > file manager > add source > press in < none > 
 <br>
-2.a - Click on the zip file and, in the next screen press the button  "download" to get zip file.
-<br>
-3.a - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
-<br>
-4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
-<br><br>
-b) <b>Install</b> the zip file <b>from an url</b> if you prefer only use kodi for all the steeps (or if you can't access to any folder of your kodi system)
-<br>
-1.b - Into your kodi system press the configuration icon > file manager > add source > press in < none > 
-<br>
-2.b - Enter the following url (https://spaniard1978.github.io/filesmonster-kodi-addon/), press ok and back to main menu<br>
+2.a - Enter the following url (https://spaniard1978.github.io/filesmonster-kodi-addon/), press ok and back to main menu<br>
 ![url_english](https://user-images.githubusercontent.com/16547668/127031367-48770d33-1f4a-4177-9e8f-36e1f141d9ab.jpg)
 <br>
  3.a - Go back to main menu > add-ons > "install from zip file" > select the "source" you have created in the previous step > install the zip file that you'll find there.
 <br>
 4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
-
-
 <br><br>
+
+b) <b>Download manually the zip file</b> into a folder accesible from your kodi system:
+<br>
+1.b - Under code tab, find the zip file of the add-on for the matrix version - filesmonster_x_x_x_matrix.zip (legacy versions are also avaliable in matrix  and leia folder). Use preferably the file that is in the root.
+<br>
+2.b - Click on the zip file and, in the next screen press the button  "download" to get zip file.
+<br>
+3.b - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
+<br>
+4.b - Once installed (matrix version) you will get all the updates directly from the add-on.
+<br><br>
+
+
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
 

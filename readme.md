@@ -46,7 +46,8 @@ b) Install the zip file <b>from an url</b> (if you can't access to any folder of
 1.b - Into your kodi system press the configuration icon > file manager > add source > press in <none> 
 <br>
 2.b - Enter the folling url, press ok an back to main menú<br>
- ![url](https://user-images.githubusercontent.com/16547668/127030945-82cfccd8-6576-4e32-836e-64f2552bd4be.jpg)
+![url_english](https://user-images.githubusercontent.com/16547668/127031367-48770d33-1f4a-4177-9e8f-36e1f141d9ab.jpg)
+
 <br>
  3.a - Go back to main menu > add-ons > "install from zip file" > select the "source" you have created in the previous step.
 <br>

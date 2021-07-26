@@ -62,7 +62,7 @@ Avaliable in English and Spanish.
 
 Premium account and filesmonster service information in https://filesmonster.com/premium/?d=%40wnfqp2
 
-For questions about the add-on: spaniard1978@protonmail.com
+More info and questions about the add-on: spaniard1978@protonmail.com
 <br><br><br>
 
 <p align=center>

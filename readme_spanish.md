@@ -28,7 +28,7 @@ Puedes obtener/renovar tu cuenta premium de filesmonster.com en este enlace:
 Descarga e instala Kodi de forma gratuita desde https://kodi.tv  - Como instalar un add-on desde un archivo zip? <a href=https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files>manual aquí</a>
 <br><br>
 
-1 - Entra la pestaña "code", elige la carpeta que se corresponda con la versión de Kodi que tienes instalada  (preferiblemente  <a href=https://github.com/spaniard1978/filesmonster-kodi-addon/tree/master/matrix>matrix</a>). Sólo la versión para matrix continúa actualizándose.
+1 - Entra la pestaña "code", y localiza el archivo zip con la el add-on - filesmonster_x_x_x_matrix.zip (las vesiones legacy sin actualización pueden encontrase en las carpetas matrix y leia). Usar preferiblemente el archivo disponible en la raíz.
 <br>
 2 - Haz click en el archivo zip y, en la siguiente pantalla presiona en el botón "download" para conseguir el archivo zip.
 <br>

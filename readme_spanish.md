@@ -44,6 +44,7 @@ b) <b>Instalar</b> el archivo zip <b>desde una url</b> si prefieres usar sólo k
 1.b - En tu sistema kodi pulsa el icono de configuración > explorador de archivos > añadir fuente > presiona en  < ninguno > 
 <br>
 2.b - Introduce la siguiente url, presiona ok y vuelve al menú principal<br>
+
 ![url_spanish](https://user-images.githubusercontent.com/16547668/127032796-5237c003-3147-40a0-8019-d850113f18d9.jpg)
 <br>
  3.a - Vuelve la menú principal >  add-ons e "instalar desde un archivo zip" > elige la "fuente" que creaste en el paso anterior > instala el archivo zip que aparecerá.

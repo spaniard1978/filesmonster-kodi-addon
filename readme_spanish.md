@@ -41,8 +41,7 @@ a) <b>Instalar</b> el archivo zip <b>desde una url</b> si prefieres usar sólo k
  3.a - Vuelve la menú principal >  add-ons e "instalar desde un archivo zip" > elige la "fuente" que creaste en el paso anterior > instala el archivo zip que aparecerá.
 <br>
 4.a -  Una vez instalado (vesión matrix) recibirás las actualizaciones directamente desde el add-on.
-
-
+<br><br>
 
 
 b) <b>Descargar manualmente el archivo zip del add-on</b> a una carpeta accesible desde tu sisema kodi:
@@ -57,7 +56,7 @@ b) <b>Descargar manualmente el archivo zip del add-on</b> a una carpeta accesibl
 <br><br>
 
 
-<br><br>
+<br>
 
 <b>QUE PUEDO HACER CON EL ADD-ON:</B>
 

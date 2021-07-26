@@ -29,6 +29,7 @@ You can get/renew your premium filesmonster.com account following this link:
 Download and install Kodi from here https://kodi.tv   -  How to install an add-on from zip file? <a href=https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files>manual here</a>
 <br><br>
 You have to ways for installing this add-on in your kodi system:<br>
+<br>
 a) Download the zip file in a folde accesible from your kodi system:
 1.a - Under code tab, find the zip file of the add-on for the matrix version - filesmonster_x_x_x_matrix.zip (legacy versions are also avaliable in matrix folder an leia folder). Use preferably the file that is in the root.
 <br>
@@ -40,7 +41,7 @@ b) Install the zip file from an url (if you can't access to any folder of your k
 1.b 
 <br>
 2.b
-
+<br><br>
 3 - Open Kodi > add-ons and "install from zip file" > select the downloaded file.
 <br>
 4 - Once installed (matrix version) you will get all the updates directly from the add-on.

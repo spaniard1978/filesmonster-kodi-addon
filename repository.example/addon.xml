@@ -2,9 +2,9 @@
 <addon id="plugin.video.filesmonster" name="filesmonster-kodi-addon" version="1.0" provider-name="spaniard1978">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/spaniard1978/filesmonster-kodi-addon/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/spaniard1978/filesmonster-kodi-addon/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/spaniard1978/filesmonster-kodi-addon/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/spaniard1978/filesmonster-kodi-addon/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/spaniard1978/filesmonster-kodi-addon/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/spaniard1978/filesmonster-kodi-addon/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">

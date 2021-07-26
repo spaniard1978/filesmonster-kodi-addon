@@ -25,6 +25,7 @@ You can get/renew your premium filesmonster.com account following this link:
   <b>HOW TO INSTALL IT IN KODI:</b>
 <br><br>
 0.- Install Kodi in your system (android, android tv, windows, raspberry pi, macOS, linux...) - Download it from here https://kodi.tv
+
 How to install an add-on from zip file? <a href=https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files target=_blank>manual here</a>
 
 1 - Under code tab, choose the folder that match with the Kodi version that you have installed (preferably <a href=https://github.com/spaniard1978/filesmonster-kodi-addon/tree/master/matrix>matrix</a>). Only matrix version will be updated.

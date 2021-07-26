@@ -61,6 +61,8 @@ Disponible en español e inglés.
 
 Cuena premium y más información sobre el servicio filesmonster.com disponble en https://filesmonster.com/premium/?d=%40wnfqp2
 
+Para información y dudas sobre add-on: spaniard1978@protonmail.com
+
 <br><br><br>
 
 <p align=center>

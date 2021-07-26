@@ -40,7 +40,7 @@ a) <b>Download manually the zip file</b> into a folder accesible from your kodi 
 <br>
 4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
 <br><br>
-b) Install the zip file <b>from an url</b> (if you can't access to any folder of your kodi system)
+b) <b>Install</b> the zip file <b>from an url</b> (if you can't access to any folder of your kodi system)
 <br>
 1.b - Into your kodi system press the configuration icon > file manager > add source > press in <none> 
 <br>
@@ -53,7 +53,7 @@ b) Install the zip file <b>from an url</b> (if you can't access to any folder of
 4.a - Once installed (matrix version) you will get all the updates directly from the add-on.
 
 
-<br><br><br>
+<br><br>
 
 <b>WHAT CAN YOU DO WITH THIS ADD-ON:</B>
 

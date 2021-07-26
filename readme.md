@@ -42,7 +42,7 @@ a) <b>Download manually the zip file</b> into a folder accesible from your kodi 
 <br><br>
 b) <b>Install</b> the zip file <b>from an url</b> if you prefer only use kodi for all the steeps (or if you can't access to any folder of your kodi system)
 <br>
-1.b - Into your kodi system press the configuration icon > file manager > add source > press in <none> 
+1.b - Into your kodi system press the configuration icon > file manager > add source > press in < none > 
 <br>
 2.b - Enter the folling url, press ok an back to main menú<br>
 ![url_english](https://user-images.githubusercontent.com/16547668/127031367-48770d33-1f4a-4177-9e8f-36e1f141d9ab.jpg)

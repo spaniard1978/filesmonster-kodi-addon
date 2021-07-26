@@ -27,7 +27,7 @@ You can get/renew your premium filesmonster.com account following this link:
 0.- Install Kodi in your system (android, android tv, windows, raspberry pi, macOS, linux...) 
 
 Download and install Kodi from here https://kodi.tv   -  How to install an add-on from zip file? <a href=https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files>manual here</a>
-<br>
+<br><br>
 You have to ways for installing this add-on in your kodi system:<br>
 <br>
 a) <b>Download manually the zip file</b> into a folder accesible from your kodi system:

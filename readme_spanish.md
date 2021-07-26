@@ -26,7 +26,6 @@ Puedes obtener/renovar tu cuenta premium de filesmonster.com en este enlace:
 0- Instala Kodi en tu sistema (android, android tv, windows, raspberry pi, macOS, linux...) 
 <br>
 Descarga e instala Kodi de forma gratuita desde https://kodi.tv  - Como instalar un add-on desde un archivo zip? <a href=https://kodi.wiki/view/Archive:Install_add-ons_from_zip_files>manual aquí</a>
-
 <br><br>
 Tines dos formas de instalar el add-on en tu sistema kodi:<br>
 <br>

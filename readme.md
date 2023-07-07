@@ -70,7 +70,7 @@ If you want to use this Filesmonster.com add-on you must have a premium account 
 <b>KODI VERSIONS:</b>
 <br>
 * Kodi Leia (v.18.x) (discontinued - legacy version)
-* Kodi Matrix (v.19.x)
+* Kodi Matrix (v.19.x) Nexus (v.20.x) or higher
 <br><br>
 <br>
 <b>ABOUT THIS ADD-ON</b>
